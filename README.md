@@ -15,8 +15,7 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
-/*
+```python
 Program to find the square root for the given number(newton's method) using function.
 Developed by:Suriya prakash.S 
 RegisterNumber:23013599
@@ -27,8 +26,6 @@ def sqrt():
         x=0.5*(x+b/x)
     return x
 print("Square root of the number:",sqrt())    
-  
-*/
 ```
 
 ## Output:
